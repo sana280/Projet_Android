@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="all_ads">All Ads</string>
+    <string name="search_ads">Search Ads</string>
+    <string name="ad_title">Ad Title</string>
+    <string name="ad_subtitle">Ad subtitle</string>
+    <string name="type_ad_here">Type Ad Here</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">pick color</string>
+    <string name="Miscellaneous" />
+</resources>
